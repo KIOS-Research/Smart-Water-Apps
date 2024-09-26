@@ -16,13 +16,13 @@
 
 [Explainable Leakage Detection](https://github.com/KIOS-Research/WDN-Dataset-Generator)
 
-[DBP-Risk](https://github.com/KIOS-Research/dbpRisk)
-
 [Leakage Diagnosis using model invalidation](https://github.com/KIOS-Research/Leakage-Diagnosis)
 
 [Chlorine bounds estimation (BUBA)](https://github.com/KIOS-Research/BUBA)
 
 [Interval Hydraulic State Estimation (IHISE)](https://github.com/KIOS-Research/IHISECode)
+
+[DBP-Risk](https://github.com/KIOS-Research/dbpRisk)
 
 [DBP Simulator](https://github.com/KIOS-Research/DBP-Simulator)
 
