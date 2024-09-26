@@ -39,9 +39,11 @@
 [PathoINVEST](https://github.com/KIOS-Research/PathoINVEST)
 
 ## Toolkits
-[EPANET-Matlab Toolkit](https://github.com/OpenWaterAnalytics/EPANET-Matlab-Toolkit)
+[EPANET-Matlab Toolkit (EMT)](https://github.com/OpenWaterAnalytics/EPANET-Matlab-Toolkit)
 
-[EPANET-Python Toolkit](https://github.com/OpenWaterAnalytics/EPyT)
+[EPANET-Python Toolkit (EPyT)](https://github.com/OpenWaterAnalytics/EPyT)
+
+[EPyT-Flow](https://github.com/WaterFutures/EPyT-Flow)
 
 ## Testbeds and Benchmark Datasets
 [LeakDB](https://github.com/KIOS-Research/LeakDB)
@@ -64,6 +66,7 @@
 ## Tutorials
 [Lecture Notes on Smart Water Networks](https://github.com/KIOS-Research/ece808-smart-water-systems)
 
-[CCWI2022 EMT Tutorial](https://github.com/KIOS-Research/CCWI2022-EMT-Tutorial)
+[EPANET-Matlab Toolkit Tutorial (WDSA/CCWI 2022) ](https://github.com/KIOS-Research/CCWI2022-EMT-Tutorial)
 
+[EPyT & EPyT-Flow Tutorial (WDSA/CCWI 2024)](https://github.com/WaterFutures/EPyT-and-EPyT-Flow-Tutorial)
 
