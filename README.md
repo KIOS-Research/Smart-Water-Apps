@@ -11,6 +11,8 @@
 ### Quality monitoring
 ⭐[Quality state estimation of transport network]
 
+⭐[Quality sensor event dewtection]
+
 [Chlorine bounds estimation (BUBA)](https://github.com/KIOS-Research/BUBA)
 
 [Active Contamination Detection](https://github.com/KIOS-Research/WDN-Dataset-Generator)
@@ -30,6 +32,10 @@
 
 ### Decision support (quality)
 ⭐[Quality sensor placement]
+
+⭐[Biofilm development risk estimation]
+
+⭐[Chlorination scheduling and booster placement]
 
 [S-PLACE Toolkit](https://github.com/KIOS-Research/splace-toolkit): A Matlab toolkit for water quality sensor placement in water distribution systems
 
