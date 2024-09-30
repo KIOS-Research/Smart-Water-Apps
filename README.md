@@ -26,6 +26,8 @@
 
 ⭐[New Development](https://github.com/KIOS-Research/SWA-New-Development)
 
+⭐[OCEANOS.AI] 
+
 [Demand Generator](https://github.com/KIOS-Research/WDN-Dataset-Generator)
 
 [EPANET-GPT](https://github.com/KIOS-Research/epanetgpt)
