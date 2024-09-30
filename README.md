@@ -1,29 +1,23 @@
 ## Smart Water Apps
-
-[S-PLACE Toolkit](https://github.com/KIOS-Research/splace-toolkit): A Matlab toolkit for water quality sensor placement in water distribution systems
-
-[New Development](https://github.com/KIOS-Research/SWA-New-Development)
-
-[Microbial Contamination](https://github.com/KIOS-Research/MicrobialContamination)
-
-[EPANET-GPT](https://github.com/KIOS-Research/epanetgpt)
-
-[Chemical Risk (chi-Risk)](https://github.com/KIOS-Research/chi-Risk)
-
-[Demand Generator](https://github.com/KIOS-Research/WDN-Dataset-Generator)
-
-[Active Contamination Detection](https://github.com/KIOS-Research/WDN-Dataset-Generator)
-
+### Hydraulics monitoring
+[Interval Hydraulic State Estimation (IHISE)](https://github.com/KIOS-Research/IHISECode)
+[Leakage Diagnosis using model invalidation](https://github.com/KIOS-Research/Leakage-Diagnosis)
 [Explainable Leakage Detection](https://github.com/KIOS-Research/WDN-Dataset-Generator)
 
-[Leakage Diagnosis using model invalidation](https://github.com/KIOS-Research/Leakage-Diagnosis)
-
+### Quality monitoring
 [Chlorine bounds estimation (BUBA)](https://github.com/KIOS-Research/BUBA)
+[Active Contamination Detection](https://github.com/KIOS-Research/WDN-Dataset-Generator)
 
-[Interval Hydraulic State Estimation (IHISE)](https://github.com/KIOS-Research/IHISECode)
+### Decision support (hydraulics)
+[New Development](https://github.com/KIOS-Research/SWA-New-Development)
+[Demand Generator](https://github.com/KIOS-Research/WDN-Dataset-Generator)
+[EPANET-GPT](https://github.com/KIOS-Research/epanetgpt)
 
+### Decision support (quality)
+[S-PLACE Toolkit](https://github.com/KIOS-Research/splace-toolkit): A Matlab toolkit for water quality sensor placement in water distribution systems
+[Microbial Contamination](https://github.com/KIOS-Research/MicrobialContamination)
+[Chemical Risk (chi-Risk)](https://github.com/KIOS-Research/chi-Risk)
 [DBP-Risk](https://github.com/KIOS-Research/dbpRisk)
-
 [DBP Simulator](https://github.com/KIOS-Research/DBP-Simulator)
 
 
