@@ -1,8 +1,13 @@
 ## Smart Water Apps
+
+[WaterAnalyticsApps](https://github.com/KIOS-Research/WaterAnalyticsPlatform/tree/master/SmartWaterApps)
+
 ### Hydraulics monitoring
 ⭐[Hydraulic state estimation of transport networks]
 
 ⭐[Model calibration using pressure sensors]
+
+[Minimum Night Flow - Leakage detection](https://github.com/KIOS-Research/SWA-MNF-Leakage-Detection)
 
 [Interval Hydraulic State Estimation (IHISE)](https://github.com/KIOS-Research/IHISECode)
 
@@ -22,11 +27,13 @@
 ### Decision support (hydraulics)
 ⭐[Pressure sensor placement]
 
-⭐[Pipe faiure risk estimation]
+[Model reduction](https://github.com/KIOS-Research/SWA-Model-Reduction/)
 
-⭐[Optimal PRV scheduling]
+[Pipe failure risk estimation](https://github.com/KIOS-Research/SWA-Pipe-Risk-Estimation)
 
-⭐[New Development](https://github.com/KIOS-Research/SWA-New-Development)
+[Optimal PRV scheduling](https://github.com/KIOS-Research/SWA-Optimal-PRV-Settings)
+
+[New Development](https://github.com/KIOS-Research/SWA-New-Development)
 
 ⭐[OCEANOS.AI] 
 
