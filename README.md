@@ -18,7 +18,7 @@
 ### Quality monitoring
 ⭐[Quality state estimation of transport network]
 
-⭐[Quality sensor event dewtection]
+⭐[Quality sensor event detection]
 
 [Chlorine bounds estimation (BUBA)](https://github.com/KIOS-Research/BUBA)
 
