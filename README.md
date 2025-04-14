@@ -48,7 +48,7 @@
 ### Decision support (quality)
 ⭐[Quality sensor placement]
 
-⭐[Biofilm development risk estimation]
+[Biofilm development risk estimation](https://github.com/KIOS-Research/Biofilm-development-risk-estimation)
 
 ⭐[Chlorination scheduling and booster placement]
 
