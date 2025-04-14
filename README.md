@@ -4,8 +4,8 @@
 
 ### Hydraulics monitoring
 ⭐[Hydraulic state estimation of transport networks]
-
-⭐[Model calibration using pressure sensors]
+⭐[DMA Model calibration using inlet sensors]
+⭐[DMA Model calibration using pressure sensors]
 
 [Minimum Night Flow - Leakage detection](https://github.com/KIOS-Research/SWA-MNF-Leakage-Detection)
 
